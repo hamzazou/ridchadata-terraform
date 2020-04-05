@@ -1,1 +1,2 @@
 env.sh
+.terraform/plugins/linux_amd64/terraform-provider-aws_v2.56.0_x4
